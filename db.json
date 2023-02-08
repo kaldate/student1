@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": " ankita",
+      "lastname": " sawant",
+      "username": " sanjay",
+      "email": " ankita@123",
+      "city": " pune",
+      "pin": " 413507",
+      "add1": " qww",
+      "class1": " entc",
+      "class2": " ME",
+      "rno": " 101",
+      "add2": " osmanabad",
+      "id": 23
+    },
+    {
+      "name": " priyanka",
+      "username": " nita",
+      "email": " priya@123",
+      "lastname": " add",
+      "class1": " OOP",
+      "class2": " java",
+      "rno": " 12",
+      "add1": " kallam",
+      "add2": " pune",
+      "city": " badodara",
+      "pin": " 354647",
+      "id": 24
+    },
+    {
+      "name": " asyti",
+      "username": " oop",
+      "lastname": " fgt",
+      "class1": " react",
+      "class2": " angular",
+      "rno": " 78",
+      "add1": " pune",
+      "add2": " osmanavg",
+      "email": " priya@123",
+      "city": " pune",
+      "pin": " 354647",
+      "id": 25
+    }
+  ]
+}
